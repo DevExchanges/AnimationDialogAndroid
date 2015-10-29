@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Dialog</string>
+    <string name="show_1">Left/Right Animation Dialog</string>
+    <string name="show_2">Fade In/out Animation Dialog</string>
+    <string name="show_3">Up/Down Animation Dialog</string>
+    <string name="show_4">Normal appear/exit Dialog</string>
+</resources>
